@@ -1,7 +1,5 @@
 # OscillatoryNeuron
 
-# OscillatoryNeuron
-
 ## Description
 
 OscillatoryNeuron is a Python library for generating and analyzing oscillatory signals. The main class, `OscillatoryNeuron`, allows users to create signals with adjustable frequency, amplitude, phase shift, and sampling rate. It also includes functionality for visualizing the generated signal.
